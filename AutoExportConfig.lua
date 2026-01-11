@@ -15,7 +15,7 @@ local Config = {}
 
 -- How often to check for new photos (in seconds)
 -- Minimum recommended: 30 seconds to avoid performance issues
-Config.POLL_INTERVAL = 10
+Config.POLL_INTERVAL = 5
 
 -- Whether monitoring starts automatically when Lightroom launches
 Config.AUTO_START_MONITORING = false
